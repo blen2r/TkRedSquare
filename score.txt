@@ -1,0 +1,18 @@
+A,Personne,0
+B,Personne,0
+C,Personne,0
+A,Mr Li,23.0929999352
+B,Mr Li,10.5
+C,Mr Li,9.34299993515
+A,PE,28.9379999638
+B,PE,20.5939998627
+C,PE,0
+A,allo,23.2190001011
+B,allo,15.4679999352
+C,allo,16.0
+A,Olivier,3.95325517654
+B,Olivier,5.65941810608
+C,Olivier,9.62496685982
+A,Olivier,0
+B,Olivier,0
+C,Olivier,0
